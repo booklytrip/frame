@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookingSteps Snapshots renders with active step 1`] = `
+<div
+  className="ui three column grid"
+>
+  <div
+    className="column"
+  >
+    <div
+      className="hYpro"
+    />
+    <div
+      className="ui blue basic label gNphye"
+      onClick={[Function]}
+    >
+      1
+    </div>
+    <span
+      className="dOjtQQ"
+    >
+      Passenger information
+    </span>
+  </div>
+  <div
+    className="column"
+  >
+    <div
+      className="hYpro"
+    />
+    <div
+      className="ui blue basic label gNphye"
+      onClick={[Function]}
+    >
+      2
+    </div>
+    <span
+      className="irAxMC"
+    >
+      Choose your payment
+    </span>
+  </div>
+  <div
+    className="column"
+  >
+    <div
+      className="hYpro"
+    />
+    <div
+      className="ui blue basic label gNphye"
+      onClick={[Function]}
+    >
+      3
+    </div>
+    <span
+      className="dOjtQQ"
+    >
+      Booking confirmation
+    </span>
+  </div>
+</div>
+`;

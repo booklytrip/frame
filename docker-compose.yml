@@ -1,0 +1,16 @@
+version: '2'
+services:
+  frame:
+    container_name: frame
+    image: registry.gitlab.com/bookly/frame:latest
+    restart: always
+    environment:
+      - NODE_ENV=staging
+      - ROOT_URL=http://www.booklytrip.com
+      - PORT=80
+    networks:
+      - nginx
+
+networks:
+  nginx:
+    external: true

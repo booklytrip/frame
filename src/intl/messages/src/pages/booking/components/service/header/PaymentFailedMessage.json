@@ -1,0 +1,6 @@
+[
+  {
+    "id": "booking.service.header.PaymentFailedMessage.content1",
+    "defaultMessage": "Payment has failed, please contact with support for clarification."
+  }
+]

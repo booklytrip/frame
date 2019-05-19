@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BookButton Snapshots renders flight booking button 1`] = `
+<button
+  className="ui left labeled yellow icon button iJRTyH"
+  onClick={[Function]}
+  tabIndex={undefined}
+>
+  <i
+    aria-hidden="true"
+    className="add to cart icon"
+  />
+   
+  <span>
+    Book
+  </span>
+</button>
+`;

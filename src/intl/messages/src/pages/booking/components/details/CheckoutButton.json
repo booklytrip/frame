@@ -1,0 +1,10 @@
+[
+  {
+    "id": "booking.details.CheckoutButton.veryfing",
+    "defaultMessage": "Verifying price and availability"
+  },
+  {
+    "id": "booking.details.CheckoutButton.proceed",
+    "defaultMessage": "Proceed to checkout"
+  }
+]

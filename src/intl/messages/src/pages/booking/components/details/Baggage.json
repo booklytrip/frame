@@ -1,0 +1,22 @@
+[
+  {
+    "id": "booking.details.BaggageSelect.default",
+    "defaultMessage": "Travel without baggage"
+  },
+  {
+    "id": "booking.details.BaggageField.cabin.label",
+    "defaultMessage": "Hand baggage"
+  },
+  {
+    "id": "booking.details.BaggageField.checked.label",
+    "defaultMessage": "Checked baggage"
+  },
+  {
+    "id": "booking.details.Baggage.optionLabel.maxWeight",
+    "defaultMessage": "Max {weight}kg {dimensions}"
+  },
+  {
+    "id": "booking.details.Baggage.optionLabel.free",
+    "defaultMessage": "Free"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "booking.service.payment.PayButton.label",
+    "defaultMessage": "Pay now"
+  },
+  {
+    "id": "booking.service.payment.PayButton.redirecting",
+    "defaultMessage": "Redirecting to payment page"
+  }
+]

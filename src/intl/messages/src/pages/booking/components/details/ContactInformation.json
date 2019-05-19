@@ -1,0 +1,26 @@
+[
+  {
+    "id": "booking.details.ContactInformation.fullName.placeholder",
+    "defaultMessage": "Full name"
+  },
+  {
+    "id": "booking.details.ContactInformation.email.placeholder",
+    "defaultMessage": "Email address"
+  },
+  {
+    "id": "booking.details.ContactInformation.header",
+    "defaultMessage": "Contact Information"
+  },
+  {
+    "id": "booking.details.ContactInformation.fullName.label",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "booking.details.ContactInformation.email.label",
+    "defaultMessage": "Email address"
+  },
+  {
+    "id": "booking.details.ContactInformation.phone.label",
+    "defaultMessage": "Phone number"
+  }
+]

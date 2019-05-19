@@ -1,0 +1,10 @@
+[
+  {
+    "id": "booking.summary.SummaryPassengerBaggage.popup",
+    "defaultMessage": "Travel with baggage"
+  },
+  {
+    "id": "booking.summary.Summary.SummaryPassengers.header",
+    "defaultMessage": "Passengers"
+  }
+]

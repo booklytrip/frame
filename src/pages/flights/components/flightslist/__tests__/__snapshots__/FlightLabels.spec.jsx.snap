@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlightLabels Snapshots renders best flight label 1`] = `
+<div
+  className="ui yellow large ribbon label SCbVL"
+  onClick={[Function]}
+>
+  <i
+    aria-hidden="true"
+    className="thumbs outline up icon"
+  />
+  <span>
+    BEST PRICE / FLIGHT DURATION RATIO
+  </span>
+</div>
+`;
+
+exports[`FlightLabels Snapshots renders direct flight label 1`] = `
+<div
+  className="ui blue large ribbon label SCbVL"
+  onClick={[Function]}
+>
+  <i
+    aria-hidden="true"
+    className="thumbs outline up icon"
+  />
+  <span>
+    CHOOSE DIRECT FLIGHT AND SAVE YOUR TIME!
+  </span>
+</div>
+`;

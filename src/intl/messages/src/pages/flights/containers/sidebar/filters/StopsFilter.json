@@ -1,0 +1,10 @@
+[
+  {
+    "id": "flights.sidebar.StopsFilter.direct",
+    "defaultMessage": "Direct flight"
+  },
+  {
+    "id": "flights.sidebar.StopsFilter.stops",
+    "defaultMessage": "{stops} {stops, plural, one {stop} other {stops}}"
+  }
+]

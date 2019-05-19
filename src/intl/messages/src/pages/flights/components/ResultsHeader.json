@@ -1,0 +1,14 @@
+[
+  {
+    "id": "flights.Header.adults",
+    "defaultMessage": "{adults} {adults, plural, one {adult} other {adults}}"
+  },
+  {
+    "id": "flights.Header.children",
+    "defaultMessage": "{children} {children, plural, one {child} other {children}}"
+  },
+  {
+    "id": "flights.Header.infants",
+    "defaultMessage": "{infants} {infants, plural, one {infant} other {infants}}"
+  }
+]

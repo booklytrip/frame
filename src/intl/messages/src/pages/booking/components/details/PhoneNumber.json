@@ -1,0 +1,10 @@
+[
+  {
+    "id": "booking.details.PhoneNumber.countryCode.placeholder",
+    "defaultMessage": "Select"
+  },
+  {
+    "id": "booking.details.PhoneNumber.number.placeholder",
+    "defaultMessage": "Phone number"
+  }
+]

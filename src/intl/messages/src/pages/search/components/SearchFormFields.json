@@ -1,0 +1,34 @@
+[
+  {
+    "id": "search.SearchForm.departureAirport.placeholder",
+    "defaultMessage": "Departure place"
+  },
+  {
+    "id": "search.SearchForm.departureAirport.label",
+    "defaultMessage": "Departure place"
+  },
+  {
+    "id": "search.SearchForm.arrivalAirport.placeholder",
+    "defaultMessage": "Arrival place"
+  },
+  {
+    "id": "search.SearchForm.arrivalAirport.label",
+    "defaultMessage": "Arrival place"
+  },
+  {
+    "id": "search.SearchForm.departureDate.placeholder",
+    "defaultMessage": "Depart at"
+  },
+  {
+    "id": "search.SearchForm.departureDate.label",
+    "defaultMessage": "Departure date"
+  },
+  {
+    "id": "search.SearchForm.returnDate.placeholder",
+    "defaultMessage": "One way"
+  },
+  {
+    "id": "search.SearchForm.returnDate.label",
+    "defaultMessage": "Return date"
+  }
+]

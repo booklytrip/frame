@@ -1,0 +1,6 @@
+[
+  {
+    "id": "flights.flightslist.FlightPrice.total",
+    "defaultMessage": "Total price: € {totalPrice}"
+  }
+]

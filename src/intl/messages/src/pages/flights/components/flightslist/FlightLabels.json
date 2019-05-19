@@ -1,0 +1,10 @@
+[
+  {
+    "id": "flights.flightslist.BestFlightLabel",
+    "defaultMessage": "BEST PRICE / FLIGHT DURATION RATIO"
+  },
+  {
+    "id": "flights.flightslist.DirectFlightLabel",
+    "defaultMessage": "CHOOSE DIRECT FLIGHT AND SAVE YOUR TIME!"
+  }
+]

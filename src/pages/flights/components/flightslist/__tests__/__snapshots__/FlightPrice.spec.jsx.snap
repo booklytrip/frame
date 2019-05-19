@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlightPrice Snapshots renders flight price 1`] = `
+<div
+  className="ifExBw"
+>
+  <div
+    className="foaqzg"
+  >
+    <span
+      className="IrIgN"
+    >
+      €
+    </span>
+    100
+    <sup
+      className="hhveXe"
+    >
+      00
+    </sup>
+  </div>
+  <p
+    className="cpOoys"
+  >
+    <span>
+      Per person
+    </span>
+  </p>
+</div>
+`;

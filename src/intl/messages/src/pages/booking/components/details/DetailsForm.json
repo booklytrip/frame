@@ -1,0 +1,10 @@
+[
+  {
+    "id": "booking.details.DetailsForm.header",
+    "defaultMessage": "Passenger information"
+  },
+  {
+    "id": "booking.details.DetailsForm.subHeader",
+    "defaultMessage": "Please enter passenger names in Latin characters, as it is stated in your ID card or passport"
+  }
+]

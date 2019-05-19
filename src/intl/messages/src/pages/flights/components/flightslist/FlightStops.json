@@ -1,0 +1,10 @@
+[
+  {
+    "id": "flights.flightslist.FlightStops.stops",
+    "defaultMessage": "{count} {count, plural, one {stop} other {stops}}"
+  },
+  {
+    "id": "flights.flightslist.FlightStops.directFlight",
+    "defaultMessage": "Direct flight"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "booking.BookingSteps.step1",
+    "defaultMessage": "Passenger information"
+  },
+  {
+    "id": "booking.BookingSteps.step2",
+    "defaultMessage": "Choose your payment"
+  },
+  {
+    "id": "booking.BookingSteps.step3",
+    "defaultMessage": "Booking confirmation"
+  }
+]

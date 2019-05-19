@@ -1,0 +1,10 @@
+[
+  {
+    "id": "filters.sidebar.NightStopsFilter.label",
+    "defaultMessage": "Night stops"
+  },
+  {
+    "id": "filters.sidebar.NightStopsFilter.Popup.content",
+    "defaultMessage": "Stop that takes more then 10 hours and transition to the next day after arrival, and may require you to book a hotel."
+  }
+]

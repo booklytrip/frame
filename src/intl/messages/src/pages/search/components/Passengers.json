@@ -1,0 +1,22 @@
+[
+  {
+    "id": "search.Passengers.infants.maxMessage",
+    "defaultMessage": "You can't travel with more infants than adults"
+  },
+  {
+    "id": "search.Passengers.title",
+    "defaultMessage": "{value} {value, plural, one {passenger} other {passengers}}"
+  },
+  {
+    "id": "search.Passengers.adults",
+    "defaultMessage": "Adults"
+  },
+  {
+    "id": "search.Passengers.children",
+    "defaultMessage": "Children"
+  },
+  {
+    "id": "search.Passengers.infants",
+    "defaultMessage": "Infants"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "booking.service.header.ConfirmationMessage.content1",
+    "defaultMessage": "Reservation confirmed. Flight documents ready."
+  },
+  {
+    "id": "booking.service.header.ConfirmationMessage.content2",
+    "defaultMessage": "Attention! Please print travel documents."
+  }
+]

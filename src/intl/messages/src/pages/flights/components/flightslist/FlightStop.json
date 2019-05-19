@@ -1,0 +1,6 @@
+[
+  {
+    "id": "flights.flightslist.FlightStop.transfer",
+    "defaultMessage": "Transfer {duration}"
+  }
+]

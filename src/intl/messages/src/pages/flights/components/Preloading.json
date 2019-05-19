@@ -1,0 +1,22 @@
+[
+  {
+    "id": "flights.Preloading.header",
+    "defaultMessage": "Searching for flights results"
+  },
+  {
+    "id": "flights.Preloading.item1",
+    "defaultMessage": "24/7 service"
+  },
+  {
+    "id": "flights.Preloading.item2",
+    "defaultMessage": "Support by team of professionals"
+  },
+  {
+    "id": "flights.Preloading.item3",
+    "defaultMessage": "Secure payments over protected gateway"
+  },
+  {
+    "id": "flights.Preloading.item4",
+    "defaultMessage": "Multiple payment methods. Pay with credit card, bank\n                    transfer or even with cash!"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "id": "flights.flightslist.ArrivalDays.1",
+    "defaultMessage": "Arrival {days, plural, =-1 {on previous day} one {on the next day} other {{days} days later}}"
+  }
+]

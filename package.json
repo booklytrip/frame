@@ -1,0 +1,63 @@
+{
+    "name": "frame",
+    "version": "0.1.0",
+    "description": "Frame is embeddable micro website for flights search",
+    "private": true,
+    "devDependencies": {
+        "@kadira/react-storybook-decorator-centered": "^1.0.0",
+        "@storybook/react": "^3.2.3",
+        "babel-cli": "^6.23.0",
+        "babel-plugin-react-intl": "^2.3.1",
+        "babel-preset-react-app": "^2.1.0",
+        "eslint-plugin-import": "^2.2.0",
+        "flow-bin": "^0.40.0",
+        "react-intl-translations-manager": "^4.0.1",
+        "react-scripts": "^1.0.10",
+        "react-test-renderer": "^15.5.4"
+    },
+    "dependencies": {
+        "apollo-client": "^1.9.0-1",
+        "classnames": "^2.2.5",
+        "crypto-js": "^3.1.6",
+        "date-fns": "^1.22.0",
+        "enzyme": "^2.8.2",
+        "es6-promise-debounce": "^1.0.1",
+        "graphql-tag": "^0.1.14",
+        "history": "^4.3.0",
+        "hoist-non-react-statics": "^1.2.0",
+        "immutable": "^3.8.1",
+        "lodash": "^4.17.2",
+        "polished": "^1.3.0",
+        "raven-js": "^3.16.0",
+        "react": "^15.4.1",
+        "react-addons-test-utils": "^15.4.2",
+        "react-apollo": "^1.4.8",
+        "react-dom": "^15.4.1",
+        "react-intl": "^2.2.3",
+        "react-redux": "^4.4.5",
+        "react-router-dom": "^4.1.1",
+        "react-select": "^1.0.0-rc.3",
+        "react-sizeme": "^2.3.2",
+        "recompose": "^0.22.0",
+        "redux": "^3.6.0",
+        "redux-form": "^6.0.5",
+        "redux-thunk": "^2.1.0",
+        "semantic-ui-css": "^2.2.4",
+        "semantic-ui-react": "^0.68.2",
+        "styled-components": "^1.4.5",
+        "uikit": "git+ssh://git@gitlab.com/bookly/UIKit.git",
+        "validator": "^6.0.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject",
+        "storybook": "start-storybook -p 9000 -s ./public",
+        "translate":
+            "rm -rf ./src/intl/messages && NODE_ENV=production babel ./src > /dev/null && NODE_ENV=production babel-node ./src/intl/config.js"
+    },
+    "jest": {
+        "coverageReporters": ["html", "text"]
+    }
+}

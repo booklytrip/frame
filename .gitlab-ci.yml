@@ -1,0 +1,59 @@
+stages:
+  - build
+  - test
+  - release
+  - deploy
+
+variables:
+  CONTAINER_TEST_IMAGE: registry.gitlab.com/bookly/frame:$CI_BUILD_REF
+  CONTAINER_RELEASE_IMAGE: registry.gitlab.com/bookly/frame:latest
+
+before_script:
+  - docker login -u gitlab-ci-token -p $CI_BUILD_TOKEN registry.gitlab.com
+
+build:
+  stage: build
+  script:
+    - docker build --build-arg SSH_KEY=$SSH_KEY --pull -t $CONTAINER_TEST_IMAGE .
+    - docker push $CONTAINER_TEST_IMAGE
+  only:
+    - master
+  tags:
+    - production
+
+test:
+  stage: test
+  script:
+    # - docker run $CONTAINER_TEST_IMAGE bash -c ./node_modules/jest/bin/jest.js
+    - docker run $CONTAINER_TEST_IMAGE bash -c CI="true" /root/.yarn/bin/yarn test
+  only:
+    - master
+  tags:
+    - production
+
+release-image:
+  stage: release
+  script:
+    - docker pull $CONTAINER_TEST_IMAGE
+    - docker tag $CONTAINER_TEST_IMAGE $CONTAINER_RELEASE_IMAGE
+    - docker push $CONTAINER_RELEASE_IMAGE
+  only:
+    - master
+#  environment: production
+  tags:
+    - production
+
+
+deploy_job:
+  stage: deploy
+  script:
+    - docker-compose up -d
+  only:
+    - master
+  environment: production
+  tags:
+    - production
+
+cache:
+  paths:
+    - node_modules/

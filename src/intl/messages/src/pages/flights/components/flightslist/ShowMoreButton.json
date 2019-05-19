@@ -1,0 +1,6 @@
+[
+  {
+    "id": "flights.flightslist.ShowMoreButton.label",
+    "defaultMessage": "Show next {flights} {flights, plural, one {flight} other {flights}}!"
+  }
+]

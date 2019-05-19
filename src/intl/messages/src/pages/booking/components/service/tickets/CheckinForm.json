@@ -1,0 +1,54 @@
+[
+  {
+    "id": "booking.service.tickets.CheckinForm.nationality.label",
+    "defaultMessage": "Nationality"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.birthDate.label",
+    "defaultMessage": "Birth date"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.documentType.passport.label",
+    "defaultMessage": "Passport"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.documentType.identityCard.label",
+    "defaultMessage": "Identity card"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.documentNumber.label",
+    "defaultMessage": "Number"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.documentIssueCountry.label",
+    "defaultMessage": "Issue country"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.documentIssueDate.label",
+    "defaultMessage": "Issue date"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.documentExpirationDate.label",
+    "defaultMessage": "Expiriation date"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.confirmation.label",
+    "defaultMessage": "I confirm that the filled data is valid and correct"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.headers.passenger",
+    "defaultMessage": "Passenger information"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.headers.document",
+    "defaultMessage": "Document information"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.buttons.cancel",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "booking.service.tickets.CheckinForm.buttons.confirm",
+    "defaultMessage": "Confirm"
+  }
+]

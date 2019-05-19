@@ -1,0 +1,14 @@
+[
+  {
+    "id": "search.form.departureAirport.isEmpty",
+    "defaultMessage": "Enter departure place"
+  },
+  {
+    "id": "search.form.arrivalAirport.isEmpty",
+    "defaultMessage": "Enter arrival place"
+  },
+  {
+    "id": "search.form.departureDate.isEmpty",
+    "defaultMessage": "Enter departure date"
+  }
+]

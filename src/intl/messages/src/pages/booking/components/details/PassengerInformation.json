@@ -1,0 +1,46 @@
+[
+  {
+    "id": "booking.details.PassengerInformation.title.label",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "booking.details.PassengerInformation.title.placeholder",
+    "defaultMessage": "Select"
+  },
+  {
+    "id": "booking.details.PassengerInformation.title.MR",
+    "defaultMessage": "Mr."
+  },
+  {
+    "id": "booking.details.PassengerInformation.title.MRS",
+    "defaultMessage": "Mrs."
+  },
+  {
+    "id": "booking.details.PassengerInformation.title.MS",
+    "defaultMessage": "Ms."
+  },
+  {
+    "id": "booking.details.PassengerInformation.firstName.label",
+    "defaultMessage": "First name"
+  },
+  {
+    "id": "booking.details.PassengerInformation.firstName.placeholder",
+    "defaultMessage": "First Name"
+  },
+  {
+    "id": "booking.details.PassengerInformation.lastName.label",
+    "defaultMessage": "Last name"
+  },
+  {
+    "id": "booking.details.PassengerInformation.lastName.placeholder",
+    "defaultMessage": "Last Name"
+  },
+  {
+    "id": "booking.details.CarrierAgeMessage",
+    "defaultMessage": "{carrier} allow to travel alone only starting from {minAge} years old and over."
+  },
+  {
+    "id": "booking.details.PassengerInformation.header",
+    "defaultMessage": "Passenger"
+  }
+]

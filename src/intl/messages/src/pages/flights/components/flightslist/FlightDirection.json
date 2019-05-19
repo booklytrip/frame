@@ -1,0 +1,6 @@
+[
+  {
+    "id": "flights.flightslist.FlightSegmentsList.travelTime",
+    "defaultMessage": "Travel time: {time}"
+  }
+]

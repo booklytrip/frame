@@ -1,0 +1,6 @@
+[
+  {
+    "id": "booking.service.header.PaymentPendingMessage.content1",
+    "defaultMessage": "Payment transaction is pending, we will continue when transaction will be completed."
+  }
+]

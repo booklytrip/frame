@@ -1,0 +1,61 @@
+.Select-control {
+  border-color: rgba(34, 36, 38, 0.15);
+  height: 37px;
+}
+
+.Select-input {
+  height: 35px;
+}
+
+.Select-input input {
+  background: transparent !important;
+}
+
+.Select-placeholder,
+.Select--single > .Select-control .Select-value {
+  color: rgba(191,191,191,.87);
+}
+
+.Select-menu-outer {
+  z-index: 999;
+}
+
+.ui[class*="left action"].input .Select-control {
+  border-radius: 0
+}
+
+.ui[class*="left action"].input .Select-control:first-child {
+  border-radius: .28571429rem 0 0 .28571429rem
+}
+
+.ui[class*="left action"].input .Select-input > input {
+  border: none;
+}
+
+.ui[class*="left action"].input input {
+  border-left: 0px;
+}
+
+/* Gray Background */
+.Select.gray .Select-control {
+  background-color: rgb(224, 225, 226);
+}
+
+.Select.gray .Select-placeholder {
+  color: rgba(0,0,0,.6);
+}
+
+/* Inside field with error */
+.ui.form .field.error .Select-control {
+  border-color: #E0B4B4;
+  background-color: #FFF6F6;
+  color: #9F3A38;
+}
+
+.ui.form .field.error .Select-placeholder {
+  color: #E0B4B4;
+}
+
+.ui.form .field.error .Select-arrow {
+  border-color: #9F3A38 transparent transparent;
+}

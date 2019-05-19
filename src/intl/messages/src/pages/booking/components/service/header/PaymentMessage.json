@@ -1,0 +1,10 @@
+[
+  {
+    "id": "booking.service.header.PaymentMessage.content1",
+    "defaultMessage": "Flight booking confirmed. Payment pending."
+  },
+  {
+    "id": "booking.service.header.PaymentMessage.content2",
+    "defaultMessage": "As long as the ticket is not paid an airline can change the booked seat price at any time, so we recommend you to pay for the selected flight as soon as possible."
+  }
+]

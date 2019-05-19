@@ -1,0 +1,22 @@
+[
+  {
+    "id": "booking.service.payment.InternetPaymentTab.headers.internet",
+    "defaultMessage": "Internet banking"
+  },
+  {
+    "id": "booking.service.payment.InternetPaymentTab.headers.cards",
+    "defaultMessage": "Bank card (debit or credit card)"
+  },
+  {
+    "id": "booking.service.payment.InternetPaymentTab.transactionFee",
+    "defaultMessage": "Additional transaction fee for your selected payment type is € {amount}"
+  },
+  {
+    "id": "booking.service.payment.InternetPaymentTab.instructions",
+    "defaultMessage": "After choosing one of the payment methods, press “Pay Now” and you will be redirected to the chosen online banking system. Follow banking system instructions."
+  },
+  {
+    "id": "booking.service.payment.noPaymentsMessage",
+    "defaultMessage": "No payment options are available"
+  }
+]

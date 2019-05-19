@@ -1,0 +1,14 @@
+[
+  {
+    "id": "booking.summary.Summary.header",
+    "defaultMessage": "Summary"
+  },
+  {
+    "id": "booking.summary.Summary.total",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "booking.summary.Summary.leftSeats",
+    "defaultMessage": "Only {seats} {seats, plural, one {seat} other {seats}} left for this price!"
+  }
+]

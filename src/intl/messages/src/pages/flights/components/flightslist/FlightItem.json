@@ -1,0 +1,14 @@
+[
+  {
+    "id": "flights.flightslist.FlightItem.showLess",
+    "defaultMessage": "Show less"
+  },
+  {
+    "id": "flights.flightslist.FlightItem.showMore",
+    "defaultMessage": "Show more"
+  },
+  {
+    "id": "flights.flightslist.FlightItem.seatsLeft",
+    "defaultMessage": "Hurry up, only {seats} {seats, plural, one {seat} other {seats}} left!"
+  }
+]

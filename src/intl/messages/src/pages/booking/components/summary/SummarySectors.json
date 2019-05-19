@@ -1,0 +1,18 @@
+[
+  {
+    "id": "booking.summary.SumamrySector.departure",
+    "defaultMessage": "Departure"
+  },
+  {
+    "id": "booking.summary.SumamrySector.arrival",
+    "defaultMessage": "Arrival"
+  },
+  {
+    "id": "booking.summary.SumamrySector.duration",
+    "defaultMessage": "Flight duration"
+  },
+  {
+    "id": "booking.summary.Summary.flight.header",
+    "defaultMessage": "Flight information"
+  }
+]

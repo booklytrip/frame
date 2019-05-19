@@ -1,0 +1,10 @@
+[
+  {
+    "id": "flights.flightslist.FlightSector.outbound",
+    "defaultMessage": "Flight out"
+  },
+  {
+    "id": "flights.flightslist.FlightSector.inbound",
+    "defaultMessage": "Flight back"
+  }
+]

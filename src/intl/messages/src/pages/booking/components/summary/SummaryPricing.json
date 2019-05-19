@@ -1,0 +1,22 @@
+[
+  {
+    "id": "booking.summary.SummaryPricing.header",
+    "defaultMessage": "Pricing"
+  },
+  {
+    "id": "booking.summary.SummaryPricing.flightPrice",
+    "defaultMessage": "Flight price"
+  },
+  {
+    "id": "booking.summary.SummaryPricing.cabinBaggage",
+    "defaultMessage": "Cabin baggage"
+  },
+  {
+    "id": "booking.summary.SummaryPricing.checkedBaggage",
+    "defaultMessage": "Checked baggage"
+  },
+  {
+    "id": "booking.summary.SummaryPricing.transactionFee",
+    "defaultMessage": "Transaction fee"
+  }
+]

@@ -1,0 +1,71 @@
+.airport .Select-control {
+    font-size: 15px;
+    height: 54px;
+    line-height: 54px;
+}
+
+.airport .Select-placeholder,
+.airport .Select--single > .Select-control .Select-value {
+    line-height: inherit;
+    padding: 0px 36px 0px 18px;
+}
+
+.airport .Select-input {
+    height: inherit;
+    padding: 0px 36px 0px 18px;
+    display: block !important;
+}
+
+.airport.swap .Select-value {
+    padding-right: 40px !important;
+}
+
+.airport .Select-arrow-zone {
+    display: none;
+}
+
+.airport .Select-clear-zone {
+    right: 14px;
+}
+
+.airport .swap {
+    cursor: pointer;
+    position: absolute;
+    z-index: 20;
+    right: 14px;
+    top: 18px;
+    width: 18px;
+    height: 18px;
+}
+
+.airport .swap:hover:before {
+    transform: translateX(-2px);
+}
+
+.airport .swap:hover:after {
+    transform: translateX(2px);
+}
+
+.airport .swap:before {
+    bottom: 0;
+    left: 0;
+    color: #2185D0;
+    font-family: 'Icons';
+    content: "\f177";
+    display: block;
+    position: absolute;
+    -o-transition: -o-transform .2s ease-in-out;
+    transition: transform .2s ease-in-out,-o-transform .2s ease-in-out;
+}
+
+.airport .swap:after {
+    color: #2185D0;
+    font-family: 'Icons';
+    content: "\f178";
+    display: block;
+    position: absolute;
+    -o-transition: -o-transform .2s ease-in-out;
+    transition: transform .2s ease-in-out,-o-transform .2s ease-in-out;
+    top: 8px;
+    left: 2px;
+}

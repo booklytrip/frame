@@ -1,0 +1,198 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FlightPriceBreakdown Snapshots renders price breakdown 1`] = `
+<div
+  className="ui basic segment hkiwyU"
+>
+  <div
+    className="ui one column grid"
+  >
+    <div
+      className="column fplSkJ"
+    >
+      <table
+        className="ui small single line very basic compact table"
+      >
+        <thead
+          className=""
+        >
+          <tr
+            className=""
+          >
+            <th
+              className=""
+            >
+              <span>
+                Passengers
+              </span>
+            </th>
+            <th
+              className="right aligned"
+            >
+              <span>
+                Price/passenger
+              </span>
+            </th>
+            <th
+              className="center aligned"
+            >
+              <span>
+                Count
+              </span>
+            </th>
+            <th
+              className="right aligned"
+            >
+              <span>
+                Price
+              </span>
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          className=""
+        >
+          <tr
+            className=""
+          >
+            <td
+              className=""
+            >
+              Adults
+            </td>
+            <td
+              className="right aligned"
+            >
+              € 
+              110
+            </td>
+            <td
+              className="center aligned"
+            >
+              1
+            </td>
+            <td
+              className="right aligned"
+            >
+              € 
+              110
+            </td>
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+            >
+              Children
+            </td>
+            <td
+              className="right aligned"
+            >
+              € 
+              55
+            </td>
+            <td
+              className="center aligned"
+            >
+              2
+            </td>
+            <td
+              className="right aligned"
+            >
+              € 
+              110
+            </td>
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+            >
+              Infants
+            </td>
+            <td
+              className="right aligned"
+            >
+              € 
+              12
+            </td>
+            <td
+              className="center aligned"
+            >
+              3
+            </td>
+            <td
+              className="right aligned"
+            >
+              € 
+              36
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div
+      className="ui fitted divider kXzbfq"
+      style={Object {}}
+    />
+    <div
+      className="column eIgfYy"
+    >
+      <table
+        className="ui small single line very basic compact table"
+      >
+        <tbody
+          className=""
+        >
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              colSpan="3"
+            >
+              <span
+                className="bBareZ"
+              >
+                <span>
+                  Total
+                </span>
+              </span>
+            </td>
+            <td
+              className="right aligned"
+            >
+              € 
+              100
+            </td>
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              colSpan="3"
+            >
+              <span
+                className="bBareZ"
+              >
+                <span>
+                  Price per passenger
+                </span>
+              </span>
+            </td>
+            <td
+              className="right aligned"
+            >
+              € 
+              20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;

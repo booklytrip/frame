@@ -1,0 +1,14 @@
+[
+  {
+    "id": "app.navigation.Language.en",
+    "defaultMessage": "English"
+  },
+  {
+    "id": "app.navigation.Language.lv",
+    "defaultMessage": "Latvian"
+  },
+  {
+    "id": "app.navigation.Language.ru",
+    "defaultMessage": "Russian"
+  }
+]

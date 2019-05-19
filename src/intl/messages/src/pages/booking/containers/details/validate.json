@@ -1,0 +1,50 @@
+[
+  {
+    "id": "booking.details.ContactInformation.fullName.isEmpty",
+    "defaultMessage": "Enter your name"
+  },
+  {
+    "id": "booking.details.ContactInformation.fullName.isInvalid",
+    "defaultMessage": "Enter only latin letters"
+  },
+  {
+    "id": "booking.details.ContactInformation.email.isEmpty",
+    "defaultMessage": "Enter your email"
+  },
+  {
+    "id": "booking.details.ContactInformation.email.isInvalid",
+    "defaultMessage": "Please enter a valid email address"
+  },
+  {
+    "id": "booking.details.ContactInformation.phone.countryCode.isEmpty",
+    "defaultMessage": "Select country code"
+  },
+  {
+    "id": "booking.details.ContactInformation.phone.number.isEmpty",
+    "defaultMessage": "Enter phone number"
+  },
+  {
+    "id": "booking.details.ContactInformation.phone.number.isInvalid",
+    "defaultMessage": "Please enter a valid phone number"
+  },
+  {
+    "id": "booking.details.PassengerInformation.title.isEmpty",
+    "defaultMessage": "Select your title"
+  },
+  {
+    "id": "booking.details.PassengerInformation.firstName.isEmpty",
+    "defaultMessage": "Enter your first name"
+  },
+  {
+    "id": "booking.details.PassengerInformation.firstName.isInvalid",
+    "defaultMessage": "Enter only latin letters"
+  },
+  {
+    "id": "booking.details.PassengerInformation.lastName.isEmpty",
+    "defaultMessage": "Enter your last name"
+  },
+  {
+    "id": "booking.details.PassengerInformation.lastName.isInvalid",
+    "defaultMessage": "Enter only latin letters"
+  }
+]

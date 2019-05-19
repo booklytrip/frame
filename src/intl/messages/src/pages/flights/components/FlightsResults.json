@@ -1,0 +1,6 @@
+[
+  {
+    "id": "flights.FlightsPage.error.noResults",
+    "defaultMessage": "Unable to get list of flights, please try again in couple minutes."
+  }
+]

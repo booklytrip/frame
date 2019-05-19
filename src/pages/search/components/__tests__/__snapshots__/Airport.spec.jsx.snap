@@ -1,0 +1,301 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Airport Snapshots should render correctly 1`] = `
+<div
+  className="ui search gFTPLJ"
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseDown={[Function]}
+>
+  <div
+    className="ui icon input"
+  >
+    <input
+      autoComplete="off"
+      className="prompt"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      placeholder={undefined}
+      tabIndex="0"
+      type="text"
+      value=""
+    />
+    <i
+      aria-hidden="true"
+      className="icon"
+    />
+  </div>
+  <div
+    className="results transition"
+  >
+    <div
+      className="message empty"
+    >
+      <div
+        className="header"
+      >
+        No results found.
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Airport Snapshots should render grouped results 1`] = `
+<div
+  className="ui search gFTPLJ"
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseDown={[Function]}
+>
+  <div
+    className="ui icon input"
+  >
+    <input
+      autoComplete="off"
+      className="prompt"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      placeholder={undefined}
+      tabIndex="0"
+      type="text"
+      value=""
+    />
+    <i
+      aria-hidden="true"
+      className="icon"
+    />
+  </div>
+  <div
+    className="results transition"
+  >
+    <div
+      cityCode="BE"
+      className="active result"
+      countryCode="BE"
+      label="Bertrix"
+      name="Bertrix"
+      onClick={[Function]}
+      shift={false}
+    >
+      <div
+        className="bTXEqs"
+      >
+        <i
+          className="be flag"
+        />
+        Bertrix
+        <div
+          className="efSUMV"
+        >
+          BE
+        </div>
+      </div>
+    </div>
+    <div
+      cityCide="BR"
+      className="result"
+      countryCode="BR"
+      iata="TMT"
+      label="Trombetas"
+      name="Trombetas"
+      onClick={[Function]}
+      shift={true}
+    >
+      <div
+        className="bTXEqs"
+      >
+        <i
+          aria-hidden="true"
+          className="chevron right icon kFUbcp"
+        />
+        Trombetas
+        <div
+          className="efSUMV"
+        >
+          TMT
+        </div>
+      </div>
+    </div>
+    <div
+      cityCide="AW"
+      className="result"
+      countryCode="AW"
+      iata="AUA"
+      label="Reina Beatrix Intl"
+      name="Reina Beatrix Intl"
+      onClick={[Function]}
+      shift={true}
+    >
+      <div
+        className="bTXEqs"
+      >
+        <i
+          aria-hidden="true"
+          className="chevron right icon kFUbcp"
+        />
+        Reina Beatrix Intl
+        <div
+          className="efSUMV"
+        >
+          AUA
+        </div>
+      </div>
+    </div>
+    <div
+      cityCide="LON"
+      className="result"
+      countryCode="GB"
+      iata="QQS"
+      label="St Pancras Railway Station"
+      name="St Pancras Railway Station"
+      onClick={[Function]}
+      shift={true}
+    >
+      <div
+        className="bTXEqs"
+      >
+        <i
+          aria-hidden="true"
+          className="chevron right icon kFUbcp"
+        />
+        St Pancras Railway Station
+        <div
+          className="efSUMV"
+        >
+          QQS
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Airport Snapshots should render results 1`] = `
+<div
+  className="ui search gFTPLJ"
+  onBlur={[Function]}
+  onFocus={[Function]}
+  onMouseDown={[Function]}
+>
+  <div
+    className="ui icon input"
+  >
+    <input
+      autoComplete="off"
+      className="prompt"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      placeholder={undefined}
+      tabIndex="0"
+      type="text"
+      value=""
+    />
+    <i
+      aria-hidden="true"
+      className="icon"
+    />
+  </div>
+  <div
+    className="results transition"
+  >
+    <div
+      cityCode="BE"
+      className="active result"
+      countryCode="BE"
+      label="Bertrix"
+      name="Bertrix"
+      onClick={[Function]}
+    >
+      <div
+        className="bTXEqs"
+      >
+        <i
+          className="be flag"
+        />
+        Bertrix
+        <div
+          className="efSUMV"
+        >
+          BE
+        </div>
+      </div>
+    </div>
+    <div
+      cityCide="BR"
+      className="result"
+      countryCode="BR"
+      iata="TMT"
+      label="Trombetas"
+      name="Trombetas"
+      onClick={[Function]}
+    >
+      <div
+        className="bTXEqs"
+      >
+        <i
+          className="br flag"
+        />
+        Trombetas
+        <div
+          className="efSUMV"
+        >
+          TMT
+        </div>
+      </div>
+    </div>
+    <div
+      cityCide="AW"
+      className="result"
+      countryCode="AW"
+      iata="AUA"
+      label="Reina Beatrix Intl"
+      name="Reina Beatrix Intl"
+      onClick={[Function]}
+    >
+      <div
+        className="bTXEqs"
+      >
+        <i
+          className="aw flag"
+        />
+        Reina Beatrix Intl
+        <div
+          className="efSUMV"
+        >
+          AUA
+        </div>
+      </div>
+    </div>
+    <div
+      cityCide="LON"
+      className="result"
+      countryCode="GB"
+      iata="QQS"
+      label="St Pancras Railway Station"
+      name="St Pancras Railway Station"
+      onClick={[Function]}
+    >
+      <div
+        className="bTXEqs"
+      >
+        <i
+          className="gb flag"
+        />
+        St Pancras Railway Station
+        <div
+          className="efSUMV"
+        >
+          QQS
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

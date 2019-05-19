@@ -1,0 +1,14 @@
+[
+  {
+    "id": "booking.service.header.CheckinRegistrationMessage.content1",
+    "defaultMessage": "Your selected travel route requires a registration to the flight (check-in) online. Please fill in additional passenger data."
+  },
+  {
+    "id": "booking.service.header.CheckinRegistrationMessage.content2",
+    "defaultMessage": "Attention! Required data must be filled by {fillByDate, date, medium}"
+  },
+  {
+    "id": "booking.service.header.CheckinRegistrationMessage.content3",
+    "defaultMessage": "Attention! If you do not have or forget to print the Boarding Passes you will have to pay 140 EUR additionally for each ticket at the airport."
+  }
+]

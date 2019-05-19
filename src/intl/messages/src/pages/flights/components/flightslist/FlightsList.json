@@ -1,0 +1,6 @@
+[
+  {
+    "id": "flights.flightslist.NoResultsMessage.content",
+    "defaultMessage": "Sorry, we found no flights on this date. Try different dates."
+  }
+]

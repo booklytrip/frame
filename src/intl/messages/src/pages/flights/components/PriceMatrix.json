@@ -1,0 +1,10 @@
+[
+  {
+    "id": "flights.PriceMatrix.departure",
+    "defaultMessage": "Departure"
+  },
+  {
+    "id": "flights.PriceMatrix.return",
+    "defaultMessage": "Return"
+  }
+]

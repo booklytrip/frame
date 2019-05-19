@@ -1,0 +1,18 @@
+[
+  {
+    "id": "flights.flightslist.FlightSegmentsList.header.departure",
+    "defaultMessage": "Departure"
+  },
+  {
+    "id": "flights.flightslist.FlightSegmentsList.header.arrival",
+    "defaultMessage": "Arrival"
+  },
+  {
+    "id": "flights.flightslist.FlightSegmentsList.header.duration",
+    "defaultMessage": "Duration"
+  },
+  {
+    "id": "flights.flightslist.FlightSegmentsList.header.carrier_flight_number",
+    "defaultMessage": "Carrier, flight number"
+  }
+]
